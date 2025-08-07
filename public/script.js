@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
-  setLanguage("en");
+  setLanguage("ar");
   
 
   // CONTACT FORM
@@ -137,3 +137,4 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 });
+
