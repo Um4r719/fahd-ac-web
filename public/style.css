@@ -505,3 +505,16 @@
 .whatsapp-float:hover {
   transform: scale(1.1);
 }
+
+.credits {
+  font-size: 14px;
+  color: #ccc;
+  margin-top: 5px;
+}
+.credits a {
+  color: orange;
+  text-decoration: none;
+}
+.credits a:hover {
+  text-decoration: underline;
+}
